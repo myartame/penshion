@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.section-header .table{
+	font-size: 11pt;
+}
+
+.section-header .table th{
+	background-color: #686868;
+	color: white;
+	text-align: center;
+}
